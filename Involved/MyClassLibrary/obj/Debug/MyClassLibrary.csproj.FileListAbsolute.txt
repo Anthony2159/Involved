@@ -1,0 +1,2 @@
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache

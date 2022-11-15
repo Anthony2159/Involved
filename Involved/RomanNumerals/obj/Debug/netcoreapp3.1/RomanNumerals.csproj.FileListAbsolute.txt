@@ -1,0 +1,16 @@
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.exe
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.deps.json
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.runtimeconfig.json
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.runtimeconfig.dev.json
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.pdb
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.csprojAssemblyReference.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.AssemblyInfo.cs
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.pdb
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.genruntimeconfig.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.csproj.CopyComplete

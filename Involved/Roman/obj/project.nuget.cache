@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YD0LILGC5hHsRog/uhg7fDGQ/A2LMd1D7UUnV4CD/ADdnt+bwk8MXJKL1Qjt9RWa07EgoPoWiaFIN5o4vfwepw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\porne\\OneDrive - ODISEE\\3TI\\HackathonInvolved\\Involved\\Roman\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\porne\\.nuget\\packages\\system.net.http.json\\3.2.1\\system.net.http.json.3.2.1.nupkg.sha512",
+    "C:\\Users\\porne\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

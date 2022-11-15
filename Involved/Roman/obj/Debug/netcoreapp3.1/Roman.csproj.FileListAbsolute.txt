@@ -1,0 +1,14 @@
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Roman.exe
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\obj\Debug\netcoreapp3.1\Roman.csprojAssemblyReference.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\obj\Debug\netcoreapp3.1\Roman.AssemblyInfoInputs.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\obj\Debug\netcoreapp3.1\Roman.AssemblyInfo.cs
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\obj\Debug\netcoreapp3.1\Roman.csproj.CopyComplete
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll

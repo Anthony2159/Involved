@@ -1,0 +1,5 @@
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\b1\bin\Debug\netcoreapp3.1\B1.exe
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\b1\obj\Debug\netcoreapp3.1\B1.csprojAssemblyReference.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\b1\obj\Debug\netcoreapp3.1\B1.AssemblyInfoInputs.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\b1\obj\Debug\netcoreapp3.1\B1.AssemblyInfo.cs
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\b1\obj\Debug\netcoreapp3.1\B1.csproj.CoreCompileInputs.cache

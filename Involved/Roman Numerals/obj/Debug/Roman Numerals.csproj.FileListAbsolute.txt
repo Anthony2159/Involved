@@ -1,0 +1,7 @@
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman Numerals\bin\Debug\Roman Numerals.exe.config
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman Numerals\bin\Debug\Roman Numerals.exe
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman Numerals\bin\Debug\Roman Numerals.pdb
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman Numerals\obj\Debug\Roman Numerals.csprojAssemblyReference.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman Numerals\obj\Debug\Roman Numerals.csproj.CoreCompileInputs.cache
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman Numerals\obj\Debug\Roman Numerals.exe
+C:\Users\porne\OneDrive - ODISEE\3TI\HackathonInvolved\Involved\Roman Numerals\obj\Debug\Roman Numerals.pdb
